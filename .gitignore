@@ -1,0 +1,13 @@
+# Eseguibile e file di compilazione
+/aureo
+*.o
+*.exe
+
+# Database locale e file temporanei SQLite
+/aureo.db
+/aureo.db-journal
+/aureo.db-wal
+/aureo.db-shm
+
+# File di sistema macOS
+.DS_Store
